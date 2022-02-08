@@ -44,6 +44,11 @@
 
                     <button type="submit" class="btn btn-warning rounded-pill"> REGISTER THE DONAR INFORMATION </button>
                 </div>
+                <div class="row p-3">
+                    <button type="button" class="btn btn-warning">
+                  <a href=""> Get Donar Iformation </a>      
+                </button>
+                </div>
            </form>
       </div>
   </div>
